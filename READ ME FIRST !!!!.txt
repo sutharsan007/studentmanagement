@@ -1,0 +1,11 @@
+Grading System in PHP
+   
+**LOGIN DETAILS** 
+
+Staff
+user: staff
+pass: staff
+
+Admin
+user: admin
+pass: 1234
